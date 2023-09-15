@@ -1,3 +1,0 @@
-<design:component>
-	<design:attribute name="selectedAppointmentType" Label="selected Appointment Type"/>
-</design:component>

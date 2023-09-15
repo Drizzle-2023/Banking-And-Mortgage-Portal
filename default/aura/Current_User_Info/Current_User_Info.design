@@ -1,3 +1,0 @@
-<design:component>
-    <design:attribute name="section" label="Section" datasource="Main,Sidebar"/>
-</design:component>
